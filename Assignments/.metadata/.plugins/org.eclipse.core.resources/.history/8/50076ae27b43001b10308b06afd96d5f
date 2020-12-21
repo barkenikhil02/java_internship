@@ -1,0 +1,10 @@
+package com.techlab.assignment.test;
+
+public class CmmandLineArg {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

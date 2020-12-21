@@ -1,0 +1,20 @@
+package com.techlabs.rectangle;
+
+public class Rectangle {
+	private float width;
+	private float height;
+	public float getWidth() {
+		return width;
+	}
+	public float getHeight() {
+		return height;
+	}
+	public void setWidth(float newWidth) {
+		width = newWidth;
+	}
+	public void setHeight(float newHeight) {
+		height = newHeight;
+	}
+	
+
+}
