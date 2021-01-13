@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.techlabs.rectangle.Rectangle"/>
+    <fullyQualifiedTypeName name="com.techlab.player.Player"/>
+    <fullyQualifiedTypeName name="com.techlab.single.inheritance.Addition"/>
+    <fullyQualifiedTypeName name="com.techlab.heirarchical.Man"/>
+    <fullyQualifiedTypeName name="com.techlab.heirarchical.Boy"/>
+    <fullyQualifiedTypeName name="com.techlab.heirarchical.Kid"/>
+    <fullyQualifiedTypeName name="com.techlab.heirarchical.Infant"/>
+    <fullyQualifiedTypeName name="com.techlab.interfaces.Child"/>
 </qualifiedTypeNameHistroy>

@@ -6,8 +6,8 @@ public class RectanglePrintTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Rectangle r1 = new Rectangle();
-		Rectangle r2 = new Rectangle();
+		Rectangle r1 = new Rectangle(22,33);
+		Rectangle r2 = new Rectangle(10,54);
 		getInfo(r1);
 		getInfo(r2);
 
